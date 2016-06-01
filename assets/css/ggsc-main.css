@@ -1,0 +1,14 @@
+[class*='col'] {
+    float: left;
+}
+
+.col-30 { width: 30%; }
+.col-40 { width: 40%; }
+.col-60 { width: 60%; }
+.col-70 { width: 70%; }
+
+.bg-white { 
+    background: white;
+    margin-left: -20px;
+    padding: 20px; 
+}
